@@ -13,3 +13,7 @@ Welcome! Here's how to get started with this assignment:
 5. When you are ready, push your changes to GitHub. It's OK to push work in progress if you want to save it remotely and come back later, or if you are switching computers. We won't evaluate your code until after the due date.
 
 7. The assignment will be automatically submitted when the due date passes, and instructors will have access even though it's a private repository, because it's set up through GitHub Classrooms.
+
+## For instructors
+
+Repository with workshop solutions: https://github.com/Birkbeck2/vdwp2223-workshop-javascript-browser-instructor-answers

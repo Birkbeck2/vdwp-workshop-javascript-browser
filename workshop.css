@@ -1,0 +1,36 @@
+.images {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.images img {
+  max-width: 200px;
+  flex: 200px;
+  margin: 30px;
+}
+
+body {
+  background-color: black;
+}
+
+.original {
+  border: 5px solid green;
+  border-radius: 30px;
+}
+
+.duplicate {
+  border: 5px solid yellow;
+  border-radius: 30px;
+}
+
+.clicked {
+  border: 5px solid blue;
+  border-radius: 30px;
+}
+
+#image-type {
+  color: white;
+  min-height: 48px;
+  font: 36px sans-serif;
+  margin: 30px;
+}
